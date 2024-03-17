@@ -19,4 +19,4 @@ Bu proje, kullanıcıların ChatGPT modelini kullanarak çeşitli konularda sohb
 - **CSS3**: Arayüzün stilini belirlemek için kullanılır.
 - **Vanilla JavaScript**: Arayüz ve kullanıcı etkileşimi için kullanılır
 
-![](chatgpt.gif)
+![](cgpt-ezgif.com-video-to-gif-converter.gif)
